@@ -19,3 +19,22 @@
     border-radius: 8px;
     cursor: pointer;
 }
+.ctg{
+    padding: 8px 12px;
+    border-radius: 10px;
+}
+.ctg h1{
+    color: #ffffff;
+}
+.ctg img{
+    width: 120px;
+}
+.category-watch{
+    background-image: linear-gradient(to bottom, #ffd558 0%, #ffac13 100%);
+}
+.category-bag{
+    background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+}
+.category-shoes{
+    background-image: linear-gradient(to bottom, #6658ff 0%, #1f13ff 100%);
+}
