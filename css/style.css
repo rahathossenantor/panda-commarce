@@ -14,11 +14,12 @@
 .buy-now-btn{
     background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
     color: #ffffff;
-    padding: 9px 25px;
+    padding: 7px 23px;
     border: none;
     border-radius: 8px;
     cursor: pointer;
 }
+
 .ctg{
     padding: 8px 12px;
     border-radius: 10px;
@@ -37,4 +38,12 @@
 }
 .category-shoes{
     background-image: linear-gradient(to bottom, #6658ff 0%, #1f13ff 100%);
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    border: none;
 }
